@@ -1,1 +1,2 @@
-Adding new file from newbranch
+Adding new file from newbranches
+hello my friend
